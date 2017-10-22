@@ -35,12 +35,6 @@ Output Format:
 Print NxN matrix depicting the placement of army units, with unit numbers delimited by (\t) Tab character
 Print Total power points collected
 Print coordinates of power points collected in sequential fashion (one per line)
-Constraints:
-A B C D E F G H
-30/07/2016 TCS: CodeVita Coding
-Arena
-https://www.tcscodevita.com/CodevitaV5/problemstart.jsp 2/2
-I , SHIVAM CHAURASIA confirm that the answer submitted is my own.
 1. 0 < N <=100
 Sample Input and Output
 SNo. Input Output
