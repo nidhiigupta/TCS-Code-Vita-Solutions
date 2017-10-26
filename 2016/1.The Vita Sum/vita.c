@@ -7,7 +7,7 @@ scanf("%d%d",&n,&k);
 for(i=0;i<=k;i+=2)
 {
 res=fact(n)/(fact(n-i)*fact(i));
-sum+=res;
+sum=sum+res;
 }
 printf("%d",sum);
 return 0;
