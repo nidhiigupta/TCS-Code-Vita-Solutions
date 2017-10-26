@@ -7,7 +7,7 @@ Abhimanyu knew how to get power points when cracking the Chakravyuha. So great w
 Pandava army could not keep pace with his advances. Worried at the rest of the army falling behind, Yudhisthir Maharaj
 needs your help to track of Abhimanyu's advances. Write a program that tracks how many power points Abhimanyu has
 collected and also uncover his trail  
-A Chakravyuha is a wheellike
+A Chakravyuha is a wheellike  
 formation. Pictorially it is depicted as below
 Fig 1. Chakravyuha
 A Chakravyuha has a very welldefined
