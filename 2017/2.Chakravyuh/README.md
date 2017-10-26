@@ -33,21 +33,21 @@ Output Format:
 Print NxN matrix depicting the placement of army units, with unit numbers delimited by (\t) Tab character
 Print Total power points collected
 Print coordinates of power points collected in sequential fashion (one per line)
-1. 0 < N <=100
-Sample Input and Output
-SNo. Input Output
-1 2
-1 2
-4 3
-Total Power points : 1
-(0,0)
-2 5
-1 2 3 4 5
-16 17 18 19 6
-15 24 25 20 7
-14 23 22 21 8
-13 12 11 10 9
-Total Power points : 3
-(0,0)
-(4,2)
-(3,2)
+1. 0 < N <=100  
+Sample Input and Output  
+SNo. Input Output  
+1 2  
+1 2  
+4 3  
+Total Power points : 1  
+(0,0)  
+2 5  
+1 2 3 4 5  
+16 17 18 19 6  
+15 24 25 20 7  
+14 23 22 21 8  
+13 12 11 10 9  
+Total Power points : 3  
+(0,0)  
+(4,2)  
+(3,2)  
