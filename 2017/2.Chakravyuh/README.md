@@ -1,4 +1,4 @@
-Problem : Chakravyuha  
+**Problem : Chakravyuha** 
 During the battle of Mahabharat, when Arjuna was far away in the battlefield, Guru Drona made a Chakravyuha formation
 of the Kaurava army to capture Yudhisthir Maharaj. Abhimanyu, young son of Arjuna was the only one amongst the
 remaining Pandava army who knew how to crack the Chakravyuha. He took it upon himself to take the battle to the
@@ -8,10 +8,8 @@ Pandava army could not keep pace with his advances. Worried at the rest of the a
 needs your help to track of Abhimanyu's advances. Write a program that tracks how many power points Abhimanyu has
 collected and also uncover his trail  
 A Chakravyuha is a wheellike  
-formation. Pictorially it is depicted as below  
-Fig 1. Chakravyuha
-A Chakravyuha has a very welldefined
-coordinate
+formation. Pictorially it is depicted as Fig 1. Chakravyuha
+A Chakravyuha has a very welldefined coordinate
 system. Each point on the coordinate
 system is manned by a
 certain unit of the army. The CommanderInChief
