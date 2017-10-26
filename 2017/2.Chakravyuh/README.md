@@ -2,7 +2,7 @@ Problem : Chakravyuha
 During the battle of Mahabharat, when Arjuna was far away in the battlefield, Guru Drona made a Chakravyuha formation
 of the Kaurava army to capture Yudhisthir Maharaj. Abhimanyu, young son of Arjuna was the only one amongst the
 remaining Pandava army who knew how to crack the Chakravyuha. He took it upon himself to take the battle to the
-enemies.
+enemies.  
 Abhimanyu knew how to get power points when cracking the Chakravyuha. So great was his prowess that rest of the
 Pandava army could not keep pace with his advances. Worried at the rest of the army falling behind, Yudhisthir Maharaj
 needs your help to track of Abhimanyu's advances. Write a program that tracks how many power points Abhimanyu has
