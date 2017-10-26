@@ -8,7 +8,7 @@ Pandava army could not keep pace with his advances. Worried at the rest of the a
 needs your help to track of Abhimanyu's advances. Write a program that tracks how many power points Abhimanyu has
 collected and also uncover his trail  
 A Chakravyuha is a wheellike  
-formation. Pictorially it is depicted as below
+formation. Pictorially it is depicted as below  
 Fig 1. Chakravyuha
 A Chakravyuha has a very welldefined
 coordinate
