@@ -1,4 +1,4 @@
-Problem : The Vita Sum
+**Problem : The Vita Sum**
 Tom the cat is brushing up his Math skills. He has a bag containing N balls of different colors. Now Tom can randomly pick
 any even number of balls from the bag. Tom wants to find out the sum of all such combinations of balls that he can pull out
 from the bag. Given he can pull out at max K balls in one pick.
@@ -11,5 +11,5 @@ Constraints:
 2. N >= k  
 Sample Input and Output  
 **SNo.** **Input** **Output** **Explaination**  
-1 	  4 4 	8 		We need 4C0 + 4C2+ 4C4= 1+6+1=8  
-2 	  8 3   29 		We need 8C0 + 8C2= 1+28=29  
+   1 	      4 4       	8 	 	We need 4C0 + 4C2+ 4C4= 1+6+1=8  
+   2    	  8 3        29 		We need 8C0 + 8C2= 1+28=29  
